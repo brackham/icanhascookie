@@ -1,7 +1,13 @@
-__all__ = ['cookies']
+__all__ = ['Cookie', 'ask']
 
+class Cookie():
+    """A Cookie."""
 
-def cookies(n):
+    def __init__(self, arg):
+        super(Cookie, self).__init__()
+        self.arg = arg
+
+def ask(n):
     """
     Can I have n cookies?
 
@@ -16,6 +22,6 @@ def cookies(n):
         The list of cookies.
     """
 
-    result = ['cookie']*n
+    result = [Cookie]*n
 
     return result
