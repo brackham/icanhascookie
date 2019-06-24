@@ -1,8 +1,11 @@
 Documentation
 =============
 
-This is the documentation for icanhascookie.
 There comes a time in life when one wonders if they can have the cookie.
+
+This is the documentation for the Python package `icanhascookie`, which may help to answer the question.
+
+Just kidding, this is just my way of learning how to make a distributable Python package.
 
 .. toctree::
   :maxdepth: 2
