@@ -7,6 +7,9 @@ Can I have the cookie?
 
 There comes a time in life when one wonders if they can have the cookie.
 
+This Python package, ``icanhascookie``, may help to answer the question.
+
+Just kidding, this is just my way of learning how to make a distributable Python package.
 
 License
 -------
